@@ -8,8 +8,11 @@ This project focuses on setting up a Windows Server 2022 Domain Controller and a
 <br />
 <h2> Utilities Used</h2>
 Oracle VirtualBox      Link https://www.virtualbox.org/wiki/Downloads
+<br />
 Windows 10 ISO         Link: https://www.microsoft.com/en-us/software-download/windows10
+<br />
 Windows Server 2022    Link: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
+<br />
 <h2>Project walk-through:</h2>
 
 <p align="center">
