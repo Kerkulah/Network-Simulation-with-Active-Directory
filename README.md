@@ -1,4 +1,4 @@
-<h1> Network-Simulation-with-Active-Directory
+<h1> Network Simulation with Active Directory
 </h1>
 
 
